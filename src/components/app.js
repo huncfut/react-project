@@ -1,8 +1,10 @@
 import React from 'react'
-import {Container} from 'reactstrap'
+import {Container, Button} from 'reactstrap'
 
-export default () => (
+const App = () => (
   <Container>
     Hello World!
   </Container>
 )
+
+export default App
