@@ -1,0 +1,24 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "React-redux starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/huncfut/react-project.git"
+  },
+  "keywords": [
+    "react",
+    "redux",
+    "starter"
+  ],
+  "author": "huncfut",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huncfut/react-project/issues"
+  },
+  "homepage": "https://github.com/huncfut/react-project#readme"
+}
